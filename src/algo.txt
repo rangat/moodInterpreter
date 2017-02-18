@@ -1,0 +1,21 @@
+0 	Strong 			Normal 			Weak
+	+1				0				-1
+-------------------------------------------------
+
+2 	Ecstasy			Joy 			Serenity
+
+5	Admiration 		Trust 			Acceptance
+
+8 	Terror 			Fear 			Apprehension 
+
+11 	Amazement 		Surprise 		Distraction
+
+14 	Grief 			Sadness 		Pensiveness
+
+17 	Loathing		Disgust 		Boredom
+
+20 	Rage			Anger 			Annoyance
+
+23 	Vigilance 		Anticipation 	Interest
+
+
