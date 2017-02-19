@@ -1,5 +1,11 @@
-table = {}
-table['TEST'] = "THIS IS SOMEHTING"
 
+def makeArray():
+    file = open("keywordsList.txt", "r")
+    keywordArr = []
+    for line in file:
+        emotionKeyword = line[:-1]
+        keywordArr.append(emotionKeyword)
+    print("Keyword list : ", keywordArr)
+    return
 
-print(table.keys())
+makeArray()
